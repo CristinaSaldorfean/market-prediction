@@ -1,1 +1,1 @@
-print("Hello Predicts.")
+print("Hello Predictions.")
