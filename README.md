@@ -6,5 +6,5 @@ This is a personal project to create an application that predicts some market fl
 
 ## Authors
 
-- [@CristinaSaldorfean](https://www.github.com/CristinaSaldorfean)
+- [@CristinaSaldorfean](https://www.github.com/CristinaSaldorfean) 
 
